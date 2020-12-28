@@ -92,9 +92,7 @@ sections:
           tvůrčích dílen
 
 
-          * **Čtenářské a filmové kluby pro různé věkové skupiny
-
-          **
+          * **Čtenářské a filmové kluby**
 
 
           Tady se zaměříme nejen na mladé, máme v plánu i kluby pro starší
