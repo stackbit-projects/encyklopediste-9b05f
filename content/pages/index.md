@@ -12,6 +12,7 @@ sections:
       - label: Více o spolku
         url: /o-spolku
         style: secondary
+        has_icon: true
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
