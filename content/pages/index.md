@@ -42,7 +42,7 @@ sections:
         image: images/129393756_160134775868735_6447436401790874959_n.jpg
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Opravujeme dům
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
