@@ -122,7 +122,7 @@ sections:
       - title: >-
           “Přistupujme ke vzdělání komplexně, bez škatulek, s úctou k poznání,
           řemeslu a životu. Ať tu po nás něco zbyde.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Ivo Šuba, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
