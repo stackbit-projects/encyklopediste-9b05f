@@ -5,8 +5,9 @@ sections:
     title: Encyklopedisté
     subtitle: Spolek pro podporu vzdělávání
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Jsme skupina lidí, kteří pomáhají rozšiřovat obzory dnešního vzdělávání o
+      zapomenuté dovednosti, řemesla a umy. V Novém Kníně tvoříme Centrum
+      tvůrčích dílen.  
     actions:
       - label: Try Free
         url: /pricing
