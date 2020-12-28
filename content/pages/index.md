@@ -26,7 +26,7 @@ sections:
     title: Projekty Encyklopedistů
     subtitle: Na čem pracujeme
     features:
-      - title: The Big Title For the Feature
+      - title: Potřebnej počítač
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
