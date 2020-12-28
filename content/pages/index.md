@@ -122,17 +122,10 @@ sections:
     features:
       - title: ''
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ## Encyklopedisté chtějí vzdělávat s úctou k poznání, řemeslu a
+          životu. Aby tu po nás něco zůstalo.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         video_embed_html: ''
         media_position: right
