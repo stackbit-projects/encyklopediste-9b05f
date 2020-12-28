@@ -36,13 +36,7 @@ sections:
           však o vzdělání přichází, protože nemají stroje. Tak se jim snažíme
           pomoct. Máte-li nějaké starší nepoužívané komponenty nebo chcete-li
           nebo potřebujete jakkoli pomoct, piště prosím na ivo.suba@seznam.cz.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         media_position: right
         media_width: fifty
