@@ -123,8 +123,9 @@ sections:
       - title: ''
         subtitle: ''
         content: >+
-          ## Encyklopedisté chtějí vzdělávat s úctou k poznání, řemeslu a
-          životu. Aby tu po nás něco zůstalo.
+          ## „Encyklopedisté chtějí vzdělávat s úctou k poznání, řemeslu a
+          životu. Aby tu po nás něco zůstalo.“
+
 
         actions: []
         video_embed_html: ''
