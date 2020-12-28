@@ -55,7 +55,7 @@ sections:
           okolí Nového Knína. Ta byla připravena ve spolupráci s místním muzeem
           v červnu 2015. 
         actions:
-          - label: Learn More
+          - label: Více na Facebooku
             url: /style-guide
             style: primary
             has_icon: true
