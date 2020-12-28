@@ -6,7 +6,7 @@
     "style": "classic",
     "palette": "green",
     "mode": "light",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "Encyklopedisté",
         "logo": "images/classic/logo.svg",
