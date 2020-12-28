@@ -121,7 +121,7 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
