@@ -137,7 +137,7 @@ sections:
         video_embed_html: ''
         media_position: right
         media_width: thirty-three
-        align: left
+        align: center
         type: feature
         image: images/futuristic-velociraptor.png
     feature_padding_vert: medium
