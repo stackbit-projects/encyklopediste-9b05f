@@ -123,7 +123,7 @@ sections:
           “Přistupujme ke vzdělání komplexně, bez škatulek, s úctou k poznání,
           řemeslu a životu. Ať tu po nás něco zbyde.”
         subtitle: 'Ivo Šuba, předseda spolku Encyklopedisté'
-        image: images/129509380_107687874519878_3193162641765740500_n.jpg
+        image: images/circle-cropped.png
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
