@@ -9,7 +9,7 @@ sections:
       zapomenuté dovednosti, řemesla a umy. V Novém Kníně tvoříme Centrum
       tvůrčích dílen.  
     actions:
-      - label: Learn More
+      - label: Více o nás
         url: /features
         style: secondary
     image: images/classic/hero.png
