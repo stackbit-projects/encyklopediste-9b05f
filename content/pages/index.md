@@ -10,7 +10,7 @@ sections:
       tvůrčích dílen.  
     actions:
       - label: Více o spolku
-        url: /features
+        url: /o-spolku
         style: secondary
     image: images/classic/hero.png
     media_position: left
