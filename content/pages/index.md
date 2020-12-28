@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Encyklopedisté
-    subtitle: Optional hero section subtitle
+    subtitle: sdružení pro podporu vzdělávání
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
