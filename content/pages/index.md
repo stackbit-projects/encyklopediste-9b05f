@@ -118,7 +118,7 @@ sections:
     align: center
     background_color: secondary
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     features:
       - title: ''
         subtitle: ''
