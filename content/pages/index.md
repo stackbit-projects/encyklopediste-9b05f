@@ -111,7 +111,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
+        image: images/129240579_107683291187003_148813026628681049_o.jpg
         media_position: right
         media_width: fifty
     feature_padding_vert: large
