@@ -67,10 +67,44 @@ sections:
         media_width: fifty
       - title: Připravujeme
         subtitle: V Centru tvůrčích dílen
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          * **Řemeslné dílny**
+
+
+          Chceme mladým lide a m ukázat, že práce se dřevem či kovem může být
+          zajímavá a tvůrčí. Někdo si vyrobí židli, někdo s námi třeba bude
+          pracovat na malé plachetnici.
+
+
+          * **Základy plachtění**
+
+
+          Téměř všichni členové Spolku Encyklopedisté mají základní námořní
+          průpravu, strávili minimálně několik týdnů (spíš měsíců) ve
+          Středozemním moři na dřevěné plachetnici Aquali, kterou si zakládající
+          členové spolku postavili svépomocí.
+
+
+          * **Květinová abeceda**
+
+
+          Rozmnožování, pěstování a zpracování rostlin bude jednou z našich
+          tvůrčích dílen
+
+
+          * **Čtenářské a filmové kluby pro různé věkové skupiny
+
+          **
+
+
+          Tady se zaměříme nejen na mladé, máme v plánu i kluby pro starší
+          ročníky. V případě zájmu otevřeme divadelní klub.
+
+
+
+
+
+
         actions:
           - label: Learn More
             url: /style-guide
