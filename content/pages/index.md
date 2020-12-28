@@ -36,6 +36,8 @@ sections:
           však o vzdělání přichází, protože nemají stroje. Tak se jim snažíme
           pomoct. Máte-li nějaké starší nepoužívané komponenty nebo chcete-li
           nebo potřebujete jakkoli pomoct, piště prosím na ivo.suba@seznam.cz.
+
+          Chcete jenom přispět? Číslo účtu: 2834837359/0800 Díky!
         actions: []
         image: images/129393756_160134775868735_6447436401790874959_n.jpg
         media_position: right
