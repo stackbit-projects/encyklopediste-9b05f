@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/129202466_107616664526999_2217420278833356098_o.jpg
         media_position: left
         media_width: fifty
       - title: Připravujeme
