@@ -108,17 +108,7 @@
             }
         ],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=diy\" target=\"_blank\" rel=\"noopener\">here</a>."
     }
 }
