@@ -117,7 +117,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Příspívejme k dne
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: large
