@@ -43,10 +43,17 @@ sections:
         media_position: right
         media_width: fifty
       - title: Opravujeme dům v Novém Kníně
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          V roce 2014 dostali Encyklopedisté darem bývalou ševcovnu v Novém
+          Kníně (Sudovická 32). Postupně jsme ji začali svépomocí opravovat.
+          Bude z něj Centrum tvůrčích dílen.
+
+
+
+          Ve zrekonstruované části už proběhla výstava dětských kreseb (2014),
+          Retrovýstava (2015) nebo výstava věnovaná konci 2. světové války v
+          okolí Nového Knína. Ta byla připravena ve spolupráci s místním muzeem
+          v červnu 2015. 
         actions:
           - label: Learn More
             url: /style-guide
