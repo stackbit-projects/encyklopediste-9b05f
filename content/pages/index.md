@@ -35,7 +35,8 @@ sections:
           Kdoví, jak bude učení v následujících letech vypadat. Spousta dětí
           však o vzdělání přichází, protože nemají stroje. Tak se jim snažíme
           pomoct. Máte-li nějaké starší nepoužívané komponenty nebo chcete-li
-          nebo potřebujete jakkoli pomoct, piště prosím na ivo.suba@seznam.cz.
+          nebo potřebujete jakkoli pomoct, piště prosím na
+          encyklopediste@seznam.cz.
 
           Chcete jenom přispět? Číslo účtu: 2834837359/0800 Díky!
         actions: []
