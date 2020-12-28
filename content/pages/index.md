@@ -134,7 +134,7 @@ sections:
         align: left
         type: feature
         image: images/futuristic-velociraptor.png
-    feature_padding_vert: medium
+    feature_padding_vert: small
     align: center
     padding_top: medium
     padding_bottom: medium
