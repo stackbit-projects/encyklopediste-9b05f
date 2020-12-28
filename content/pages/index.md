@@ -31,9 +31,11 @@ sections:
           V době pandemie stavíme ze starých darovaných komponent funkční
           počítače pro děti.
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Většina školáků je nyní odkázána na distanční výuku přes počítač.
+          Kdoví, jak bude učení v následujících letech vypadat. Spousta dětí
+          však o vzdělání přichází, protože nemají stroje. Tak se jim snažíme
+          pomoct. Máte-li nějaké starší nepoužívané komponenty nebo chcete-li
+          nebo potřebujete jakkoli pomoct, piště prosím na ivo.suba@seznam.cz.
         actions:
           - label: Learn More
             url: /style-guide
