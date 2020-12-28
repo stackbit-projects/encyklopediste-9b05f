@@ -117,17 +117,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “Přistupujme ke vzdělání komplexně, bez škatulek, s úctou k poznání,
-          řemeslu a životu. Ať tu po nás něco zbyde.”
-        subtitle: 'Ivo Šuba, předseda spolku Encyklopedisté'
-        image: images/circle-cropped.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
