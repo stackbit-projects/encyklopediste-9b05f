@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/classic/hero.png
+    image: images/128742354_106071311348201_7420291286109185501_o.jpg
     media_position: left
     media_width: fifty
     align: left
