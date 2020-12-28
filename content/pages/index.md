@@ -10,7 +10,7 @@ sections:
       tvůrčích dílen.  
     actions:
       - label: Více o spolku
-        url: /projekty
+        url: '#projekty'
         style: secondary
         has_icon: true
         icon: arrow-right
