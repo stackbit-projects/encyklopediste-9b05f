@@ -27,7 +27,9 @@ sections:
     subtitle: Na čem pracujeme
     features:
       - title: Potřebnej počítač
-        subtitle: Ze starých darovaných komponent stavíme funkční počítače pro děti
+        subtitle: >-
+          Ze starých darovaných komponent stavíme funkční počítače pro děti,
+          kteří
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
