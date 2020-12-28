@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Projekty Encyklopedistů
-    subtitle: Features Section Example
+    subtitle: Na čem pracujeme
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
