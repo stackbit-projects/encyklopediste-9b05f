@@ -56,7 +56,8 @@ sections:
           v červnu 2015. 
         actions:
           - label: Více na Facebooku
-            url: /style-guide
+            url: >-
+              https://www.facebook.com/Spolek-Encyklopedist%C3%A9-106058078016191
             style: primary
             has_icon: true
             icon: arrow-right
