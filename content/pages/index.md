@@ -29,7 +29,7 @@ sections:
       - title: Potřebnej počítač
         subtitle: >-
           V době pandemie stavíme ze starých darovaných komponent funkční
-          počítače pro děti
+          počítače pro děti.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
