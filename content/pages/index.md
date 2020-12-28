@@ -37,7 +37,7 @@ sections:
           pomoct. Máte-li nějaké starší nepoužívané komponenty nebo chcete-li
           nebo potřebujete jakkoli pomoct, piště prosím na ivo.suba@seznam.cz.
         actions: []
-        image: images/classic/feature-1.png
+        image: images/129393756_160134775868735_6447436401790874959_n.jpg
         media_position: right
         media_width: fifty
       - title: The Big Title For the Feature
