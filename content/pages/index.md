@@ -32,11 +32,15 @@ sections:
           počítače pro děti.
         content: >-
           Většina školáků je nyní odkázána na distanční výuku přes počítač.
-          Kdoví, jak bude učení v následujících letech vypadat. Spousta dětí
-          však o vzdělání přichází, protože nemají stroje. Tak se jim snažíme
-          pomoct. Máte-li nějaké starší nepoužívané komponenty nebo chcete-li
-          nebo potřebujete jakkoli pomoct, piště prosím na
-          encyklopediste@seznam.cz.
+          Nevíme, jak bude učení v následujících letech vypadat, ale dá se
+          předpokládat, že se posune mnohem více do online prostředí. Mnoho dětí
+          se nyní nemůže kvalitně učit, chybí jim vlastní přístroj. Proto se
+          mladí nadšenci z našich řad rozhodli sbírat a renovovat staré
+          počítače. Do 31. 12. rozdali 61 opravených strojů potřebným školákům
+          (děti matek samoživitelek, děti z pěstounských rodin a děti
+          přistěhovalců). Máte-li nějaké starší nepoužívané komponenty,
+          chcete-li nám na provoz jakkoli přispět nebo naopak potřebujete získat
+          pro svého školáka počítač, piště prosím na encyklopediste@seznam.cz.
 
           Chcete jenom přispět? Číslo účtu: 2834837359/0800 Díky!
         actions: []
