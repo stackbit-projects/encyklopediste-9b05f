@@ -4,7 +4,7 @@
     "description": "Stránky spolku Encyklopedisté",
     "layout": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "blue",
     "mode": "light",
     "base_font": "serif",
     "header": {
