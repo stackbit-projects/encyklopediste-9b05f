@@ -4,10 +4,14 @@ sections:
   - type: hero_section
     title: Encyklopedisté
     subtitle: Spolek pro podporu vzdělávání
-    content: >-
-      Jsme skupina lidí, kteří pomáhají rozšiřovat obzory dnešního vzdělávání o
-      zapomenuté dovednosti, řemesla a umy. V Novém Kníně tvoříme Centrum
-      tvůrčích dílen.  
+    content: >
+      Jsme skupina lidí, kteří se snaží otevírat mladším generacím cestu k těm
+      formám vzdělávání, na které se trochu pozapomíná - řemeslům a umům, pro
+      něž ve škole není místo, či filmovým a literárním klubům, založeným na
+      propojování souvislostí. Proto budujeme v Novém Kníně Centrum tvůrčích
+      dílen, které bude otevřené i pro generace starší. Současně ovšem
+      nezapomínáme na aktuální problémy školáků při distanční výuce. Pro ty
+      nejpotřebnější je tu projekt  Potřebnej počítač.
     actions:
       - label: Více o spolku
         url: '#projekty'
